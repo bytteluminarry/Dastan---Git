@@ -553,7 +553,7 @@ namespace Dastan
                         maxNumber = 7;
                         hasBeenAwarded = true;
                     }
-                    else Console.Write("Choose move option to use from queue (1 to " + maxNumber + ") or 9 to take the offer, or 7 to place a new kotla, or 6 to get sub options: ");
+                    else Console.Write("-Choose move option to use from queue (1 to " + maxNumber + ") or 9 to take the offer, or 7 to place a new kotla, or 6 to get sub options: ");
 
                     if (GetValidInt(Console.ReadLine(), out Choice) == false) //true
                     {
