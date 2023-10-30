@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DastanConsole\DastanConsole\bin\Debug\DastanConsole.exe.config
+C:\Users\HP\source\repos\DastanConsole\DastanConsole\bin\Debug\DastanConsole.exe
+C:\Users\HP\source\repos\DastanConsole\DastanConsole\bin\Debug\DastanConsole.pdb
+C:\Users\HP\source\repos\DastanConsole\DastanConsole\obj\Debug\DastanConsole.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DastanConsole\DastanConsole\obj\Debug\DastanConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DastanConsole\DastanConsole\obj\Debug\DastanConsole.exe
+C:\Users\HP\source\repos\DastanConsole\DastanConsole\obj\Debug\DastanConsole.pdb
